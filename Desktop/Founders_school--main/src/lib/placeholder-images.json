@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "app-mockup",
+      "description": "Founders Community App UI Mockup",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=18IsIw-U3g3dqWyGCQAB63tJr3R7b5dL5",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "feature-courses",
+      "description": "Courses UI Screen",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1mqFvOoTso4wTdVBnxAnB2FyfWcTnAhUh",
+      "imageHint": "mobile dashboard"
+    },
+    {
+      "id": "feature-webinars",
+      "description": "Webinar UI Screen",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1M2TVl_I87YBzm2Of-vqf7YLCS-nfGNg1",
+      "imageHint": "video conference"
+    },
+    {
+      "id": "feature-chat",
+      "description": "Chat UI Screen",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1iJ-mgJZf6IOMYVp_BVjckDh9ry45rwWV",
+      "imageHint": "chat app"
+    },
+    {
+      "id": "feature-growth",
+      "description": "Growth UI Screen",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1quR5S8_KsuB7o4VzrRJtNDywkqA-i4Ed",
+      "imageHint": "analytics mobile"
+    },
+    {
+      "id": "avatar-1",
+      "description": "User Avatar 1",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User Avatar 2",
+      "imageUrl": "https://picsum.photos/seed/user2/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "founder-1",
+      "description": "Founder 1",
+      "imageUrl": "https://picsum.photos/seed/f1/200/200",
+      "imageHint": "businessman portrait"
+    },
+    {
+      "id": "founder-2",
+      "description": "Founder 2",
+      "imageUrl": "https://picsum.photos/seed/f2/200/200",
+      "imageHint": "businesswoman portrait"
+    },
+    {
+      "id": "founder-3",
+      "description": "Founder 3",
+      "imageUrl": "https://picsum.photos/seed/f3/200/200",
+      "imageHint": "entrepreneur portrait"
+    }
+  ]
+}
